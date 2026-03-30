@@ -1,0 +1,15 @@
+Ze-peng.tan@mail.foxconn.com
+
+The Camera360 system has now been upgraded to HTTPS.
+Could you please assist us in updating the related links for the BBS system at your earliest convenience?
+
+2. B08 Smart Security：
+https://fiiai-smartsecurity-cns.myfiinet.com/v2/#/iframe/cctv-monitoring-camera
+3. Virtual Patrolling Platform：
+https://fiiai-smartsecurity-cns.myfiinet.com/v2/#/iframe/virtual-tour
+4. Smart BBS：
+https://fiiai-smartsecurity-cns.myfiinet.com/v2/#/iframe/BBS
+5. Smart Security Management：
+https://fiiai-smartsecurity-cns.myfiinet.com/v2/#/iframe/bbs-violations
+6. BBS Event Log：
+https://fiiai-smartsecurity-cns.myfiinet.com/v2/#/iframe/cctv-monitoring-event-log-table
